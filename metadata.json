@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Retro Snake Game",
+  "description": "A modern implementation of the classic Snake game built with React and Tailwind CSS. Control the snake to eat the food, grow longer, and achieve the highest score without colliding with the walls or yourself.",
+  "requestFramePermissions": []
+}
